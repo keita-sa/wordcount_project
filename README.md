@@ -8,3 +8,6 @@ https://keita-sa.github.io/wordcount-project/templates/home.html
 
 ・about.html
 https://keita-sa.github.io/wordcount-project/templates/about.html
+
+・count.html
+https://keita-sa.github.io/wordcount-project/templates/count.html
